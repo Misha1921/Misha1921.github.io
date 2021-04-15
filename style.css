@@ -1,0 +1,41 @@
+.Header{
+	background-color: red;
+	height: 210px;
+	text-align:center;
+	color: yellow;
+}
+.Content{
+	color: green;
+	height: 130px;
+	text-align:center;
+}
+.Footer{
+	color: darkblue;
+	height: 136px;
+	text-align:center;
+	background-color: yellow;
+	font: 56px
+}
+.box{
+	flex-grow:110px; 
+	color: blue;
+	background-color: #807b00;
+	height: 490px;
+	
+}
+ol li{
+ padding: 0;
+ margin: 0;
+ background: #2e5cb8;
+ list-style: none;
+ font: bold 50px sans-serif;
+}
+ol  {
+ padding: 15px;
+ margin: 15px;
+ background: #ebf0fa;
+ text-align: left;
+}
+.post{
+	font: 45px;
+}
